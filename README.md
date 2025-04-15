@@ -1,2 +1,2 @@
 # PRN212_W3_SpaBookingSystem
-Skin care service management software supports scheduling, assigning specialists, recording results, payments, reviews and managing customer history. The system provides dashboards, reports and allows management of services, work schedules, price lists, and cancellation policies.
+Phần mềm quản lý dịch vụ chăm sóc da hỗ trợ đặt lịch, phân công chuyên viên, ghi nhận kết quả, thanh toán, đánh giá và quản lý lịch sử khách hàng. Hệ thống cung cấp dashboard, báo cáo và cho phép quản lý dịch vụ, lịch làm việc, bảng giá, chính sách hủy.
