@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B55C139D-5F1F-480B-828B-F995625C722F}|WPF_SBS\\WPF_SBS.csproj|d:\\hk4 - fpt\\prn212_w3\\prn212_w3_sbs\\wpf_sbs\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B55C139D-5F1F-480B-828B-F995625C722F}|WPF_SBS\\WPF_SBS.csproj|solutionrelative:wpf_sbs\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55C139D-5F1F-480B-828B-F995625C722F}|WPF_SBS\\WPF_SBS.csproj|d:\\hk4 - fpt\\prn212_w3\\prn212_w3_sbs\\wpf_sbs\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B55C139D-5F1F-480B-828B-F995625C722F}|WPF_SBS\\WPF_SBS.csproj|solutionrelative:wpf_sbs\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55C139D-5F1F-480B-828B-F995625C722F}|WPF_SBS\\WPF_SBS.csproj|d:\\hk4 - fpt\\prn212_w3\\prn212_w3_sbs\\wpf_sbs\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B55C139D-5F1F-480B-828B-F995625C722F}|WPF_SBS\\WPF_SBS.csproj|solutionrelative:wpf_sbs\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55C139D-5F1F-480B-828B-F995625C722F}|WPF_SBS\\WPF_SBS.csproj|d:\\hk4 - fpt\\prn212_w3\\prn212_w3_sbs\\wpf_sbs\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B55C139D-5F1F-480B-828B-F995625C722F}|WPF_SBS\\WPF_SBS.csproj|solutionrelative:wpf_sbs\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\WPF_SBS\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "WPF_SBS\\LoginWindow.xaml",
+              "ToolTip": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\WPF_SBS\\LoginWindow.xaml",
+              "RelativeToolTip": "WPF_SBS\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-15T04:42:18.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterWindow.xaml",
+              "DocumentMoniker": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\WPF_SBS\\RegisterWindow.xaml",
+              "RelativeDocumentMoniker": "WPF_SBS\\RegisterWindow.xaml",
+              "ToolTip": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\WPF_SBS\\RegisterWindow.xaml",
+              "RelativeToolTip": "WPF_SBS\\RegisterWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-15T04:39:29.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\WPF_SBS\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPF_SBS\\MainWindow.xaml",
+              "ToolTip": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\WPF_SBS\\MainWindow.xaml",
+              "RelativeToolTip": "WPF_SBS\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-15T04:39:02.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\WPF_SBS\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPF_SBS\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\WPF_SBS\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPF_SBS\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T04:39:02.642Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
