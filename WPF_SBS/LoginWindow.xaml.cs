@@ -23,5 +23,6 @@ namespace WPF_SBS
         {
             InitializeComponent();
         }
+        hehehehe
     }
 }
