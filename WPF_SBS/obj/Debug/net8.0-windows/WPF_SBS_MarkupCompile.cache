@@ -1,0 +1,20 @@
+﻿WPF_SBS
+
+
+winexe
+C#
+.cs
+D:\HK4 - FPT\PRN212_W3\PRN212_W3_SBS\WPF_SBS\obj\Debug\net8.0-windows\
+WPF_SBS
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+D:\HK4 - FPT\PRN212_W3\PRN212_W3_SBS\WPF_SBS\App.xaml
+161765066394
+
+191691150660
+236-1466808634
+Admin\AppointmentManagement.xaml;Admin\CustomerAccountManagement.xaml;Admin\DashboardAdminWindow.xaml;Admin\ServiceManagementWindow.xaml;Admin\SlotManagementWindow.xaml;Admin\TherapistManagementWindow.xaml;Customer\ConfirmBooking.xaml;Customer\History.xaml;Customer\HomePage.xaml;Customer\ProfileCustomer.xaml;Customer\Service.xaml;Customer\Therapist.xaml;LoginWindow.xaml;MainWindow.xaml;RegisterWindow.xaml;Therapist\WorkScheduleTherapistWindow.xaml;
+
+False
+

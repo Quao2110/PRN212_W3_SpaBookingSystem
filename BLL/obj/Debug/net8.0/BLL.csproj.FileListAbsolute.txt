@@ -1,0 +1,17 @@
+D:\HK4 - FPT\PRN212_W3\PRN212_W3_SBS\BLL\bin\Debug\net8.0\BLL.deps.json
+D:\HK4 - FPT\PRN212_W3\PRN212_W3_SBS\BLL\bin\Debug\net8.0\BLL.dll
+D:\HK4 - FPT\PRN212_W3\PRN212_W3_SBS\BLL\bin\Debug\net8.0\BLL.pdb
+D:\HK4 - FPT\PRN212_W3\PRN212_W3_SBS\BLL\bin\Debug\net8.0\DAL.dll
+D:\HK4 - FPT\PRN212_W3\PRN212_W3_SBS\BLL\bin\Debug\net8.0\DAL.pdb
+D:\HK4 - FPT\PRN212_W3\PRN212_W3_SBS\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+D:\HK4 - FPT\PRN212_W3\PRN212_W3_SBS\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\HK4 - FPT\PRN212_W3\PRN212_W3_SBS\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+D:\HK4 - FPT\PRN212_W3\PRN212_W3_SBS\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+D:\HK4 - FPT\PRN212_W3\PRN212_W3_SBS\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+D:\HK4 - FPT\PRN212_W3\PRN212_W3_SBS\BLL\obj\Debug\net8.0\BLL.sourcelink.json
+D:\HK4 - FPT\PRN212_W3\PRN212_W3_SBS\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+D:\HK4 - FPT\PRN212_W3\PRN212_W3_SBS\BLL\obj\Debug\net8.0\BLL.dll
+D:\HK4 - FPT\PRN212_W3\PRN212_W3_SBS\BLL\obj\Debug\net8.0\refint\BLL.dll
+D:\HK4 - FPT\PRN212_W3\PRN212_W3_SBS\BLL\obj\Debug\net8.0\BLL.pdb
+D:\HK4 - FPT\PRN212_W3\PRN212_W3_SBS\BLL\obj\Debug\net8.0\ref\BLL.dll
+D:\HK4 - FPT\PRN212_W3\PRN212_W3_SBS\BLL\bin\Debug\net8.0\appsettings.json

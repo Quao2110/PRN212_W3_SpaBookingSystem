@@ -1,0 +1,103 @@
+﻿<Window x:Class="WPF_SBS.Customer.Therapist"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_SBS.Customer"
+        mc:Ignorable="d"
+        Title="Danh sách Chuyên viên" Height="700" Width="1200"
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Header -->
+        <Grid Grid.Row="0" Background="#2196F3">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            
+            <TextBlock Text="DANH SÁCH CHUYÊN VIÊN" 
+                      FontSize="24" 
+                      FontWeight="Bold"
+                      Foreground="White"/>
+
+            <StackPanel Grid.Column="1" Orientation="Horizontal">
+                <TextBox x:Name="txtSearch" 
+                         Width="250"
+                         Height="30"
+                         Margin="0,0,10,0"
+                         Padding="5"
+                         VerticalContentAlignment="Center" />
+                <ComboBox x:Name="cboExperience"
+                          Width="150"
+                          Height="30"
+                          Margin="0,0,10,0"
+                          VerticalContentAlignment="Center">
+                    <ComboBoxItem Content="Tất cả kinh nghiệm"/>
+                    <ComboBoxItem Content="Dưới 3 năm"/>
+                    <ComboBoxItem Content="3-5 năm"/>
+                    <ComboBoxItem Content="5-10 năm"/>
+                    <ComboBoxItem Content="Trên 10 năm"/>
+                </ComboBox>
+                <Button x:Name="btnSearch"
+                        Content="Tìm kiếm"
+                        Height="30"
+                        Padding="15,0"
+                        Background="White"
+                        Foreground="#2196F3"/>
+            </StackPanel>
+        </Grid>
+
+        <!-- Content -->
+       <ScrollViewer Grid.Row="1" Margin="20">
+    <ItemsControl x:Name="lstTherapists">
+        <ItemsControl.ItemsPanel>
+            <ItemsPanelTemplate>
+                <UniformGrid Columns="3" HorizontalAlignment="Center" />
+            </ItemsPanelTemplate>
+        </ItemsControl.ItemsPanel>
+        <ItemsControl.ItemTemplate>
+            <DataTemplate>
+                <Border Margin="18"
+                        Padding="20"
+                        Background="White"
+                        CornerRadius="20"
+                        BorderBrush="#E0E0E0"
+                        BorderThickness="1"
+                        Effect="{DynamicResource DropShadow}">
+                    <StackPanel HorizontalAlignment="Center">
+                        <Border Width="90" Height="90" CornerRadius="45" Background="#F5F5F5" Margin="0,0,0,10">
+                            <Image Source="{Binding Image}" Stretch="UniformToFill" ClipToBounds="True" Width="90" Height="90"/>
+                        </Border>
+                        <TextBlock Text="{Binding IdNavigation.Fullname}" 
+                                   FontSize="20" 
+                                   FontWeight="Bold" 
+                                   Foreground="#1976D2"
+                                   HorizontalAlignment="Center"
+                                   Margin="0,0,0,2"/>
+                        <TextBlock FontSize="14" Foreground="#444" HorizontalAlignment="Center" Margin="0,0,0,8">
+                            <Run Text="Kinh nghiệm: "/>
+                            <Run Text="{Binding Experience}"/>
+                            <Run Text=" năm"/>
+                        </TextBlock>
+                        <TextBlock Text="{Binding Description}" 
+                                   TextWrapping="Wrap" 
+                                   Foreground="#444" 
+                                   FontSize="14"
+                                   TextAlignment="Justify"
+                                   Margin="0,0,0,0"/>
+                    </StackPanel>
+                </Border>
+            </DataTemplate>
+        </ItemsControl.ItemTemplate>
+        <ItemsControl.Resources>
+            <DropShadowEffect x:Key="DropShadow" BlurRadius="10" ShadowDepth="2" Opacity="0.18"/>
+        </ItemsControl.Resources>
+    </ItemsControl>
+</ScrollViewer>
+    </Grid>
+</Window>

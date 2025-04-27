@@ -3,16 +3,182 @@
   "WorkspaceRootPath": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B55C139D-5F1F-480B-828B-F995625C722F}|WPF_SBS\\WPF_SBS.csproj|d:\\hk4 - fpt\\prn212_w3\\prn212_w3_sbs\\wpf_sbs\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{B55C139D-5F1F-480B-828B-F995625C722F}|WPF_SBS\\WPF_SBS.csproj|solutionrelative:wpf_sbs\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{B55C139D-5F1F-480B-828B-F995625C722F}|WPF_SBS\\WPF_SBS.csproj|d:\\hk4 - fpt\\prn212_w3\\prn212_w3_sbs\\wpf_sbs\\admin\\therapistmanagementwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B55C139D-5F1F-480B-828B-F995625C722F}|WPF_SBS\\WPF_SBS.csproj|solutionrelative:wpf_sbs\\admin\\therapistmanagementwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55C139D-5F1F-480B-828B-F995625C722F}|WPF_SBS\\WPF_SBS.csproj|d:\\hk4 - fpt\\prn212_w3\\prn212_w3_sbs\\wpf_sbs\\customer\\therapist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B55C139D-5F1F-480B-828B-F995625C722F}|WPF_SBS\\WPF_SBS.csproj|solutionrelative:wpf_sbs\\customer\\therapist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55C139D-5F1F-480B-828B-F995625C722F}|WPF_SBS\\WPF_SBS.csproj|d:\\hk4 - fpt\\prn212_w3\\prn212_w3_sbs\\wpf_sbs\\customer\\profilecustomer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B55C139D-5F1F-480B-828B-F995625C722F}|WPF_SBS\\WPF_SBS.csproj|solutionrelative:wpf_sbs\\customer\\profilecustomer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E16BE7B-D833-4528-A06B-8985B4EEDC44}|BLL\\BLL.csproj|d:\\hk4 - fpt\\prn212_w3\\prn212_w3_sbs\\bll\\service\\therapistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E16BE7B-D833-4528-A06B-8985B4EEDC44}|BLL\\BLL.csproj|solutionrelative:bll\\service\\therapistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E16BE7B-D833-4528-A06B-8985B4EEDC44}|BLL\\BLL.csproj|d:\\hk4 - fpt\\prn212_w3\\prn212_w3_sbs\\bll\\service\\appoimentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E16BE7B-D833-4528-A06B-8985B4EEDC44}|BLL\\BLL.csproj|solutionrelative:bll\\service\\appoimentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55C139D-5F1F-480B-828B-F995625C722F}|WPF_SBS\\WPF_SBS.csproj|d:\\hk4 - fpt\\prn212_w3\\prn212_w3_sbs\\wpf_sbs\\customer\\confirmbooking.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B55C139D-5F1F-480B-828B-F995625C722F}|WPF_SBS\\WPF_SBS.csproj|solutionrelative:wpf_sbs\\customer\\confirmbooking.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55C139D-5F1F-480B-828B-F995625C722F}|WPF_SBS\\WPF_SBS.csproj|d:\\hk4 - fpt\\prn212_w3\\prn212_w3_sbs\\wpf_sbs\\customer\\history.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B55C139D-5F1F-480B-828B-F995625C722F}|WPF_SBS\\WPF_SBS.csproj|solutionrelative:wpf_sbs\\customer\\history.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55C139D-5F1F-480B-828B-F995625C722F}|WPF_SBS\\WPF_SBS.csproj|d:\\hk4 - fpt\\prn212_w3\\prn212_w3_sbs\\wpf_sbs\\customer\\service.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B55C139D-5F1F-480B-828B-F995625C722F}|WPF_SBS\\WPF_SBS.csproj|solutionrelative:wpf_sbs\\customer\\service.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55C139D-5F1F-480B-828B-F995625C722F}|WPF_SBS\\WPF_SBS.csproj|d:\\hk4 - fpt\\prn212_w3\\prn212_w3_sbs\\wpf_sbs\\admin\\customeraccountmanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B55C139D-5F1F-480B-828B-F995625C722F}|WPF_SBS\\WPF_SBS.csproj|solutionrelative:wpf_sbs\\admin\\customeraccountmanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55C139D-5F1F-480B-828B-F995625C722F}|WPF_SBS\\WPF_SBS.csproj|d:\\hk4 - fpt\\prn212_w3\\prn212_w3_sbs\\wpf_sbs\\admin\\appointmentmanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B55C139D-5F1F-480B-828B-F995625C722F}|WPF_SBS\\WPF_SBS.csproj|solutionrelative:wpf_sbs\\admin\\appointmentmanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55C139D-5F1F-480B-828B-F995625C722F}|WPF_SBS\\WPF_SBS.csproj|d:\\hk4 - fpt\\prn212_w3\\prn212_w3_sbs\\wpf_sbs\\admin\\slotmanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B55C139D-5F1F-480B-828B-F995625C722F}|WPF_SBS\\WPF_SBS.csproj|solutionrelative:wpf_sbs\\admin\\slotmanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55C139D-5F1F-480B-828B-F995625C722F}|WPF_SBS\\WPF_SBS.csproj|d:\\hk4 - fpt\\prn212_w3\\prn212_w3_sbs\\wpf_sbs\\admin\\servicemanagementwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B55C139D-5F1F-480B-828B-F995625C722F}|WPF_SBS\\WPF_SBS.csproj|solutionrelative:wpf_sbs\\admin\\servicemanagementwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55C139D-5F1F-480B-828B-F995625C722F}|WPF_SBS\\WPF_SBS.csproj|d:\\hk4 - fpt\\prn212_w3\\prn212_w3_sbs\\wpf_sbs\\therapist\\workscheduletherapistwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B55C139D-5F1F-480B-828B-F995625C722F}|WPF_SBS\\WPF_SBS.csproj|solutionrelative:wpf_sbs\\therapist\\workscheduletherapistwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55C139D-5F1F-480B-828B-F995625C722F}|WPF_SBS\\WPF_SBS.csproj|d:\\hk4 - fpt\\prn212_w3\\prn212_w3_sbs\\wpf_sbs\\admin\\dashboardadminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B55C139D-5F1F-480B-828B-F995625C722F}|WPF_SBS\\WPF_SBS.csproj|solutionrelative:wpf_sbs\\admin\\dashboardadminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B55C139D-5F1F-480B-828B-F995625C722F}|WPF_SBS\\WPF_SBS.csproj|d:\\hk4 - fpt\\prn212_w3\\prn212_w3_sbs\\wpf_sbs\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{B55C139D-5F1F-480B-828B-F995625C722F}|WPF_SBS\\WPF_SBS.csproj|solutionrelative:wpf_sbs\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B55C139D-5F1F-480B-828B-F995625C722F}|WPF_SBS\\WPF_SBS.csproj|d:\\hk4 - fpt\\prn212_w3\\prn212_w3_sbs\\wpf_sbs\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B55C139D-5F1F-480B-828B-F995625C722F}|WPF_SBS\\WPF_SBS.csproj|solutionrelative:wpf_sbs\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B55C139D-5F1F-480B-828B-F995625C722F}|WPF_SBS\\WPF_SBS.csproj|d:\\hk4 - fpt\\prn212_w3\\prn212_w3_sbs\\wpf_sbs\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{B55C139D-5F1F-480B-828B-F995625C722F}|WPF_SBS\\WPF_SBS.csproj|solutionrelative:wpf_sbs\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55C139D-5F1F-480B-828B-F995625C722F}|WPF_SBS\\WPF_SBS.csproj|d:\\hk4 - fpt\\prn212_w3\\prn212_w3_sbs\\wpf_sbs\\customer\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B55C139D-5F1F-480B-828B-F995625C722F}|WPF_SBS\\WPF_SBS.csproj|solutionrelative:wpf_sbs\\customer\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55C139D-5F1F-480B-828B-F995625C722F}|WPF_SBS\\WPF_SBS.csproj|d:\\hk4 - fpt\\prn212_w3\\prn212_w3_sbs\\wpf_sbs\\customer\\therapist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B55C139D-5F1F-480B-828B-F995625C722F}|WPF_SBS\\WPF_SBS.csproj|solutionrelative:wpf_sbs\\customer\\therapist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55C139D-5F1F-480B-828B-F995625C722F}|WPF_SBS\\WPF_SBS.csproj|d:\\hk4 - fpt\\prn212_w3\\prn212_w3_sbs\\wpf_sbs\\admin\\therapistmanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B55C139D-5F1F-480B-828B-F995625C722F}|WPF_SBS\\WPF_SBS.csproj|solutionrelative:wpf_sbs\\admin\\therapistmanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55C139D-5F1F-480B-828B-F995625C722F}|WPF_SBS\\WPF_SBS.csproj|d:\\hk4 - fpt\\prn212_w3\\prn212_w3_sbs\\wpf_sbs\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B55C139D-5F1F-480B-828B-F995625C722F}|WPF_SBS\\WPF_SBS.csproj|solutionrelative:wpf_sbs\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Thanh Huyen\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC096F7-3CBE-481C-961A-2C198160C23F}|DAL\\DAL.csproj|d:\\hk4 - fpt\\prn212_w3\\prn212_w3_sbs\\dal\\sbscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC096F7-3CBE-481C-961A-2C198160C23F}|DAL\\DAL.csproj|solutionrelative:dal\\sbscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC096F7-3CBE-481C-961A-2C198160C23F}|DAL\\DAL.csproj|d:\\hk4 - fpt\\prn212_w3\\prn212_w3_sbs\\dal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DCC096F7-3CBE-481C-961A-2C198160C23F}|DAL\\DAL.csproj|solutionrelative:dal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Thanh Huyen\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55C139D-5F1F-480B-828B-F995625C722F}|WPF_SBS\\WPF_SBS.csproj|d:\\hk4 - fpt\\prn212_w3\\prn212_w3_sbs\\wpf_sbs\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B55C139D-5F1F-480B-828B-F995625C722F}|WPF_SBS\\WPF_SBS.csproj|solutionrelative:wpf_sbs\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55C139D-5F1F-480B-828B-F995625C722F}|WPF_SBS\\WPF_SBS.csproj|d:\\hk4 - fpt\\prn212_w3\\prn212_w3_sbs\\wpf_sbs\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B55C139D-5F1F-480B-828B-F995625C722F}|WPF_SBS\\WPF_SBS.csproj|solutionrelative:wpf_sbs\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC096F7-3CBE-481C-961A-2C198160C23F}|DAL\\DAL.csproj|d:\\hk4 - fpt\\prn212_w3\\prn212_w3_sbs\\dal\\repo\\therapistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC096F7-3CBE-481C-961A-2C198160C23F}|DAL\\DAL.csproj|solutionrelative:dal\\repo\\therapistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC096F7-3CBE-481C-961A-2C198160C23F}|DAL\\DAL.csproj|d:\\hk4 - fpt\\prn212_w3\\prn212_w3_sbs\\dal\\models\\therapist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC096F7-3CBE-481C-961A-2C198160C23F}|DAL\\DAL.csproj|solutionrelative:dal\\models\\therapist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC096F7-3CBE-481C-961A-2C198160C23F}|DAL\\DAL.csproj|d:\\hk4 - fpt\\prn212_w3\\prn212_w3_sbs\\dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC096F7-3CBE-481C-961A-2C198160C23F}|DAL\\DAL.csproj|solutionrelative:dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC096F7-3CBE-481C-961A-2C198160C23F}|DAL\\DAL.csproj|d:\\hk4 - fpt\\prn212_w3\\prn212_w3_sbs\\dal\\repo\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC096F7-3CBE-481C-961A-2C198160C23F}|DAL\\DAL.csproj|solutionrelative:dal\\repo\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC096F7-3CBE-481C-961A-2C198160C23F}|DAL\\DAL.csproj|d:\\hk4 - fpt\\prn212_w3\\prn212_w3_sbs\\dal\\repo\\slotrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC096F7-3CBE-481C-961A-2C198160C23F}|DAL\\DAL.csproj|solutionrelative:dal\\repo\\slotrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC096F7-3CBE-481C-961A-2C198160C23F}|DAL\\DAL.csproj|d:\\hk4 - fpt\\prn212_w3\\prn212_w3_sbs\\dal\\repo\\slotdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC096F7-3CBE-481C-961A-2C198160C23F}|DAL\\DAL.csproj|solutionrelative:dal\\repo\\slotdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC096F7-3CBE-481C-961A-2C198160C23F}|DAL\\DAL.csproj|d:\\hk4 - fpt\\prn212_w3\\prn212_w3_sbs\\dal\\repo\\servicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC096F7-3CBE-481C-961A-2C198160C23F}|DAL\\DAL.csproj|solutionrelative:dal\\repo\\servicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC096F7-3CBE-481C-961A-2C198160C23F}|DAL\\DAL.csproj|d:\\hk4 - fpt\\prn212_w3\\prn212_w3_sbs\\dal\\repo\\servicecategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC096F7-3CBE-481C-961A-2C198160C23F}|DAL\\DAL.csproj|solutionrelative:dal\\repo\\servicecategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC096F7-3CBE-481C-961A-2C198160C23F}|DAL\\DAL.csproj|d:\\hk4 - fpt\\prn212_w3\\prn212_w3_sbs\\dal\\repo\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC096F7-3CBE-481C-961A-2C198160C23F}|DAL\\DAL.csproj|solutionrelative:dal\\repo\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC096F7-3CBE-481C-961A-2C198160C23F}|DAL\\DAL.csproj|d:\\hk4 - fpt\\prn212_w3\\prn212_w3_sbs\\dal\\repo\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC096F7-3CBE-481C-961A-2C198160C23F}|DAL\\DAL.csproj|solutionrelative:dal\\repo\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E16BE7B-D833-4528-A06B-8985B4EEDC44}|BLL\\BLL.csproj|d:\\hk4 - fpt\\prn212_w3\\prn212_w3_sbs\\bll\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E16BE7B-D833-4528-A06B-8985B4EEDC44}|BLL\\BLL.csproj|solutionrelative:bll\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E16BE7B-D833-4528-A06B-8985B4EEDC44}|BLL\\BLL.csproj|d:\\hk4 - fpt\\prn212_w3\\prn212_w3_sbs\\bll\\service\\slotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E16BE7B-D833-4528-A06B-8985B4EEDC44}|BLL\\BLL.csproj|solutionrelative:bll\\service\\slotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E16BE7B-D833-4528-A06B-8985B4EEDC44}|BLL\\BLL.csproj|d:\\hk4 - fpt\\prn212_w3\\prn212_w3_sbs\\bll\\service\\slotdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E16BE7B-D833-4528-A06B-8985B4EEDC44}|BLL\\BLL.csproj|solutionrelative:bll\\service\\slotdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E16BE7B-D833-4528-A06B-8985B4EEDC44}|BLL\\BLL.csproj|d:\\hk4 - fpt\\prn212_w3\\prn212_w3_sbs\\bll\\service\\serviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E16BE7B-D833-4528-A06B-8985B4EEDC44}|BLL\\BLL.csproj|solutionrelative:bll\\service\\serviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E16BE7B-D833-4528-A06B-8985B4EEDC44}|BLL\\BLL.csproj|d:\\hk4 - fpt\\prn212_w3\\prn212_w3_sbs\\bll\\service\\servicecategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E16BE7B-D833-4528-A06B-8985B4EEDC44}|BLL\\BLL.csproj|solutionrelative:bll\\service\\servicecategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E16BE7B-D833-4528-A06B-8985B4EEDC44}|BLL\\BLL.csproj|d:\\hk4 - fpt\\prn212_w3\\prn212_w3_sbs\\bll\\service\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E16BE7B-D833-4528-A06B-8985B4EEDC44}|BLL\\BLL.csproj|solutionrelative:bll\\service\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55C139D-5F1F-480B-828B-F995625C722F}|WPF_SBS\\WPF_SBS.csproj|d:\\hk4 - fpt\\prn212_w3\\prn212_w3_sbs\\wpf_sbs\\admin\\servicemanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B55C139D-5F1F-480B-828B-F995625C722F}|WPF_SBS\\WPF_SBS.csproj|solutionrelative:wpf_sbs\\admin\\servicemanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55C139D-5F1F-480B-828B-F995625C722F}|WPF_SBS\\WPF_SBS.csproj|d:\\hk4 - fpt\\prn212_w3\\prn212_w3_sbs\\wpf_sbs\\wpf_sbs.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B55C139D-5F1F-480B-828B-F995625C722F}|WPF_SBS\\WPF_SBS.csproj|solutionrelative:wpf_sbs\\wpf_sbs.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B55C139D-5F1F-480B-828B-F995625C722F}|WPF_SBS\\WPF_SBS.csproj|d:\\hk4 - fpt\\prn212_w3\\prn212_w3_sbs\\wpf_sbs\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,42 +213,530 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "LoginWindow.xaml",
-              "DocumentMoniker": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\WPF_SBS\\LoginWindow.xaml",
-              "RelativeDocumentMoniker": "WPF_SBS\\LoginWindow.xaml",
-              "ToolTip": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\WPF_SBS\\LoginWindow.xaml",
-              "RelativeToolTip": "WPF_SBS\\LoginWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-15T04:42:18.3Z",
+              "Title": "TherapistManagementWindow.xaml.cs",
+              "DocumentMoniker": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\WPF_SBS\\Admin\\TherapistManagementWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPF_SBS\\Admin\\TherapistManagementWindow.xaml.cs",
+              "ToolTip": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\WPF_SBS\\Admin\\TherapistManagementWindow.xaml.cs",
+              "RelativeToolTip": "WPF_SBS\\Admin\\TherapistManagementWindow.xaml.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAkwF4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T04:15:55.139Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppointmentManagement.xaml",
+              "DocumentMoniker": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\WPF_SBS\\Admin\\AppointmentManagement.xaml",
+              "RelativeDocumentMoniker": "WPF_SBS\\Admin\\AppointmentManagement.xaml",
+              "ToolTip": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\WPF_SBS\\Admin\\AppointmentManagement.xaml",
+              "RelativeToolTip": "WPF_SBS\\Admin\\AppointmentManagement.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-27T10:40:23.138Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Therapist.xaml",
+              "DocumentMoniker": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\WPF_SBS\\Customer\\Therapist.xaml",
+              "RelativeDocumentMoniker": "WPF_SBS\\Customer\\Therapist.xaml",
+              "ToolTip": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\WPF_SBS\\Customer\\Therapist.xaml",
+              "RelativeToolTip": "WPF_SBS\\Customer\\Therapist.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-26T04:09:33.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerAccountManagement.xaml",
+              "DocumentMoniker": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\WPF_SBS\\Admin\\CustomerAccountManagement.xaml",
+              "RelativeDocumentMoniker": "WPF_SBS\\Admin\\CustomerAccountManagement.xaml",
+              "ToolTip": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\WPF_SBS\\Admin\\CustomerAccountManagement.xaml",
+              "RelativeToolTip": "WPF_SBS\\Admin\\CustomerAccountManagement.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-27T10:41:01.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProfileCustomer.xaml",
+              "DocumentMoniker": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\WPF_SBS\\Customer\\ProfileCustomer.xaml",
+              "RelativeDocumentMoniker": "WPF_SBS\\Customer\\ProfileCustomer.xaml",
+              "ToolTip": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\WPF_SBS\\Customer\\ProfileCustomer.xaml",
+              "RelativeToolTip": "WPF_SBS\\Customer\\ProfileCustomer.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-27T11:01:37.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConfirmBooking.xaml",
+              "DocumentMoniker": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\WPF_SBS\\Customer\\ConfirmBooking.xaml",
+              "RelativeDocumentMoniker": "WPF_SBS\\Customer\\ConfirmBooking.xaml",
+              "ToolTip": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\WPF_SBS\\Customer\\ConfirmBooking.xaml",
+              "RelativeToolTip": "WPF_SBS\\Customer\\ConfirmBooking.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-27T10:43:23.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Service.xaml",
+              "DocumentMoniker": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\WPF_SBS\\Customer\\Service.xaml",
+              "RelativeDocumentMoniker": "WPF_SBS\\Customer\\Service.xaml",
+              "ToolTip": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\WPF_SBS\\Customer\\Service.xaml",
+              "RelativeToolTip": "WPF_SBS\\Customer\\Service.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-27T10:41:34.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "History.xaml",
+              "DocumentMoniker": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\WPF_SBS\\Customer\\History.xaml",
+              "RelativeDocumentMoniker": "WPF_SBS\\Customer\\History.xaml",
+              "ToolTip": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\WPF_SBS\\Customer\\History.xaml",
+              "RelativeToolTip": "WPF_SBS\\Customer\\History.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-27T10:42:03.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppoimentService.cs",
+              "DocumentMoniker": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\BLL\\Service\\AppoimentService.cs",
+              "RelativeDocumentMoniker": "BLL\\Service\\AppoimentService.cs",
+              "ToolTip": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\BLL\\Service\\AppoimentService.cs",
+              "RelativeToolTip": "BLL\\Service\\AppoimentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T04:42:51.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TherapistService.cs",
+              "DocumentMoniker": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\BLL\\Service\\TherapistService.cs",
+              "RelativeDocumentMoniker": "BLL\\Service\\TherapistService.cs",
+              "ToolTip": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\BLL\\Service\\TherapistService.cs",
+              "RelativeToolTip": "BLL\\Service\\TherapistService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T04:45:43.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SlotManagementWindow.xaml",
+              "DocumentMoniker": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\WPF_SBS\\Admin\\SlotManagementWindow.xaml",
+              "RelativeDocumentMoniker": "WPF_SBS\\Admin\\SlotManagementWindow.xaml",
+              "ToolTip": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\WPF_SBS\\Admin\\SlotManagementWindow.xaml",
+              "RelativeToolTip": "WPF_SBS\\Admin\\SlotManagementWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-27T10:39:21.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ServiceManagementWindow.xaml.cs",
+              "DocumentMoniker": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\WPF_SBS\\Admin\\ServiceManagementWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPF_SBS\\Admin\\ServiceManagementWindow.xaml.cs",
+              "ToolTip": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\WPF_SBS\\Admin\\ServiceManagementWindow.xaml.cs",
+              "RelativeToolTip": "WPF_SBS\\Admin\\ServiceManagementWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T10:37:43.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WorkScheduleTherapistWindow.xaml",
+              "DocumentMoniker": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\WPF_SBS\\Therapist\\WorkScheduleTherapistWindow.xaml",
+              "RelativeDocumentMoniker": "WPF_SBS\\Therapist\\WorkScheduleTherapistWindow.xaml",
+              "ToolTip": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\WPF_SBS\\Therapist\\WorkScheduleTherapistWindow.xaml",
+              "RelativeToolTip": "WPF_SBS\\Therapist\\WorkScheduleTherapistWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-27T10:37:09.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DashboardAdminWindow.xaml",
+              "DocumentMoniker": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\WPF_SBS\\Admin\\DashboardAdminWindow.xaml",
+              "RelativeDocumentMoniker": "WPF_SBS\\Admin\\DashboardAdminWindow.xaml",
+              "ToolTip": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\WPF_SBS\\Admin\\DashboardAdminWindow.xaml",
+              "RelativeToolTip": "WPF_SBS\\Admin\\DashboardAdminWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-27T10:35:25.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "RegisterWindow.xaml",
               "DocumentMoniker": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\WPF_SBS\\RegisterWindow.xaml",
               "RelativeDocumentMoniker": "WPF_SBS\\RegisterWindow.xaml",
               "ToolTip": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\WPF_SBS\\RegisterWindow.xaml",
               "RelativeToolTip": "WPF_SBS\\RegisterWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-15T04:39:29.244Z",
+              "WhenOpened": "2025-04-27T10:30:47.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\WPF_SBS\\Customer\\HomePage.xaml",
+              "RelativeDocumentMoniker": "WPF_SBS\\Customer\\HomePage.xaml",
+              "ToolTip": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\WPF_SBS\\Customer\\HomePage.xaml",
+              "RelativeToolTip": "WPF_SBS\\Customer\\HomePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-27T10:29:58.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\Thanh Huyen\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\Thanh Huyen\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs [Read Only]",
+              "ViewState": "AgIAAKEBAAAAAAAAAAAvwLUBAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T07:51:10.382Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Therapist.xaml.cs",
+              "DocumentMoniker": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\WPF_SBS\\Customer\\Therapist.xaml.cs",
+              "RelativeDocumentMoniker": "WPF_SBS\\Customer\\Therapist.xaml.cs",
+              "ToolTip": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\WPF_SBS\\Customer\\Therapist.xaml.cs",
+              "RelativeToolTip": "WPF_SBS\\Customer\\Therapist.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T07:21:22.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\WPF_SBS\\App.xaml",
+              "RelativeDocumentMoniker": "WPF_SBS\\App.xaml",
+              "ToolTip": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\WPF_SBS\\App.xaml",
+              "RelativeToolTip": "WPF_SBS\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-15T06:43:29.381Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 15,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\WPF_SBS\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "WPF_SBS\\LoginWindow.xaml",
+              "ToolTip": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\WPF_SBS\\LoginWindow.xaml",
+              "RelativeToolTip": "WPF_SBS\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-15T04:42:18.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TherapistManagementWindow.xaml",
+              "DocumentMoniker": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\WPF_SBS\\Admin\\TherapistManagementWindow.xaml",
+              "RelativeDocumentMoniker": "WPF_SBS\\Admin\\TherapistManagementWindow.xaml",
+              "ToolTip": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\WPF_SBS\\Admin\\TherapistManagementWindow.xaml",
+              "RelativeToolTip": "WPF_SBS\\Admin\\TherapistManagementWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-22T03:55:02.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\WPF_SBS\\MainWindow.xaml",
               "RelativeDocumentMoniker": "WPF_SBS\\MainWindow.xaml",
               "ToolTip": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\WPF_SBS\\MainWindow.xaml",
               "RelativeToolTip": "WPF_SBS\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-15T04:39:02.969Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T04:39:02.969Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 24,
+              "Title": "ResourcePart.cs",
+              "DocumentMoniker": "C:\\Users\\Thanh Huyen\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "ToolTip": "C:\\Users\\Thanh Huyen\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAEAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T07:30:09.557Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\DAL\\appsettings.json",
+              "RelativeDocumentMoniker": "DAL\\appsettings.json",
+              "ToolTip": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\DAL\\appsettings.json",
+              "RelativeToolTip": "DAL\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-26T04:30:48.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SbsContext.cs",
+              "DocumentMoniker": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\DAL\\SbsContext.cs",
+              "RelativeDocumentMoniker": "DAL\\SbsContext.cs",
+              "ToolTip": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\DAL\\SbsContext.cs",
+              "RelativeToolTip": "DAL\\SbsContext.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAADwvyYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T04:30:12.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\WPF_SBS\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "WPF_SBS\\AssemblyInfo.cs",
+              "ToolTip": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\WPF_SBS\\AssemblyInfo.cs",
+              "RelativeToolTip": "WPF_SBS\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T06:43:39.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\WPF_SBS\\App.xaml.cs",
+              "RelativeDocumentMoniker": "WPF_SBS\\App.xaml.cs",
+              "ToolTip": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\WPF_SBS\\App.xaml.cs",
+              "RelativeToolTip": "WPF_SBS\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T06:44:03.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Therapist.cs",
+              "DocumentMoniker": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\DAL\\Models\\Therapist.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Therapist.cs",
+              "ToolTip": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\DAL\\Models\\Therapist.cs",
+              "RelativeToolTip": "DAL\\Models\\Therapist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T04:32:46.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TherapistRepository.cs",
+              "DocumentMoniker": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\DAL\\Repo\\TherapistRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repo\\TherapistRepository.cs",
+              "ToolTip": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\DAL\\Repo\\TherapistRepository.cs",
+              "RelativeToolTip": "DAL\\Repo\\TherapistRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T07:09:38.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\DAL\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\User.cs",
+              "ToolTip": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\DAL\\Models\\User.cs",
+              "RelativeToolTip": "DAL\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T07:21:46.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\DAL\\Repo\\UserRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repo\\UserRepository.cs",
+              "ToolTip": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\DAL\\Repo\\UserRepository.cs",
+              "RelativeToolTip": "DAL\\Repo\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T07:09:54.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SlotRepository.cs",
+              "DocumentMoniker": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\DAL\\Repo\\SlotRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repo\\SlotRepository.cs",
+              "ToolTip": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\DAL\\Repo\\SlotRepository.cs",
+              "RelativeToolTip": "DAL\\Repo\\SlotRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T07:08:45.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SlotDetailRepository.cs",
+              "DocumentMoniker": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\DAL\\Repo\\SlotDetailRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repo\\SlotDetailRepository.cs",
+              "ToolTip": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\DAL\\Repo\\SlotDetailRepository.cs",
+              "RelativeToolTip": "DAL\\Repo\\SlotDetailRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T07:09:08.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ServiceRepository.cs",
+              "DocumentMoniker": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\DAL\\Repo\\ServiceRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repo\\ServiceRepository.cs",
+              "ToolTip": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\DAL\\Repo\\ServiceRepository.cs",
+              "RelativeToolTip": "DAL\\Repo\\ServiceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T07:04:03.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ServiceCategoryRepository.cs",
+              "DocumentMoniker": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\DAL\\Repo\\ServiceCategoryRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repo\\ServiceCategoryRepository.cs",
+              "ToolTip": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\DAL\\Repo\\ServiceCategoryRepository.cs",
+              "RelativeToolTip": "DAL\\Repo\\ServiceCategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T07:08:12.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RoleRepository.cs",
+              "DocumentMoniker": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\DAL\\Repo\\RoleRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repo\\RoleRepository.cs",
+              "ToolTip": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\DAL\\Repo\\RoleRepository.cs",
+              "RelativeToolTip": "DAL\\Repo\\RoleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T07:03:49.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AppointmentRepository.cs",
+              "DocumentMoniker": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\DAL\\Repo\\AppointmentRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repo\\AppointmentRepository.cs",
+              "ToolTip": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\DAL\\Repo\\AppointmentRepository.cs",
+              "RelativeToolTip": "DAL\\Repo\\AppointmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T07:03:30.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SlotDetailService.cs",
+              "DocumentMoniker": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\BLL\\Service\\SlotDetailService.cs",
+              "RelativeDocumentMoniker": "BLL\\Service\\SlotDetailService.cs",
+              "ToolTip": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\BLL\\Service\\SlotDetailService.cs",
+              "RelativeToolTip": "BLL\\Service\\SlotDetailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T04:45:31.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ServiceService.cs",
+              "DocumentMoniker": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\BLL\\Service\\ServiceService.cs",
+              "RelativeDocumentMoniker": "BLL\\Service\\ServiceService.cs",
+              "ToolTip": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\BLL\\Service\\ServiceService.cs",
+              "RelativeToolTip": "BLL\\Service\\ServiceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T04:43:45.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SlotService.cs",
+              "DocumentMoniker": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\BLL\\Service\\SlotService.cs",
+              "RelativeDocumentMoniker": "BLL\\Service\\SlotService.cs",
+              "ToolTip": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\BLL\\Service\\SlotService.cs",
+              "RelativeToolTip": "BLL\\Service\\SlotService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T04:45:17.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\BLL\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "BLL\\Service\\UserService.cs",
+              "ToolTip": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\BLL\\Service\\UserService.cs",
+              "RelativeToolTip": "BLL\\Service\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T04:45:57.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ServiceCategoryService.cs",
+              "DocumentMoniker": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\BLL\\Service\\ServiceCategoryService.cs",
+              "RelativeDocumentMoniker": "BLL\\Service\\ServiceCategoryService.cs",
+              "ToolTip": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\BLL\\Service\\ServiceCategoryService.cs",
+              "RelativeToolTip": "BLL\\Service\\ServiceCategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T04:45:05.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\BLL\\Service\\RoleService.cs",
+              "RelativeDocumentMoniker": "BLL\\Service\\RoleService.cs",
+              "ToolTip": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\BLL\\Service\\RoleService.cs",
+              "RelativeToolTip": "BLL\\Service\\RoleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T04:43:26.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ServiceManagementWindow.xaml",
+              "DocumentMoniker": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\WPF_SBS\\Admin\\ServiceManagementWindow.xaml",
+              "RelativeDocumentMoniker": "WPF_SBS\\Admin\\ServiceManagementWindow.xaml",
+              "ToolTip": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\WPF_SBS\\Admin\\ServiceManagementWindow.xaml",
+              "RelativeToolTip": "WPF_SBS\\Admin\\ServiceManagementWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-26T04:35:54.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "WPF_SBS",
+              "DocumentMoniker": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\WPF_SBS\\WPF_SBS.csproj",
+              "RelativeDocumentMoniker": "WPF_SBS\\WPF_SBS.csproj",
+              "ToolTip": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\WPF_SBS\\WPF_SBS.csproj",
+              "RelativeToolTip": "WPF_SBS\\WPF_SBS.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-15T06:40:02.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\HK4 - FPT\\PRN212_W3\\PRN212_W3_SBS\\WPF_SBS\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "WPF_SBS\\MainWindow.xaml.cs",
@@ -90,8 +744,7 @@
               "RelativeToolTip": "WPF_SBS\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T04:39:02.642Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T04:39:02.642Z"
             }
           ]
         },
